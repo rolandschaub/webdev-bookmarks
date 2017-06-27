@@ -6,7 +6,7 @@ A collection of web development bookmarks grouped by topic
 
 ### Tools
 
-<http://www.archetypeapp.com>
+<http://www.archetypeapp.com>  
 Online tool for selection and configuration of web fonts
 
 ## SVG
