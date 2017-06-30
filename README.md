@@ -18,4 +18,9 @@ A Practical Guide to SVGs on the web
 
 ### References
 
+## Conference Videos
+
+**An Event Apart**  
+<https://aneventapart.com/news/videos>
+
 
