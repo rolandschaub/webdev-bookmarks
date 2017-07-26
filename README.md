@@ -16,6 +16,11 @@ Online tool for selection and configuration of web fonts
 <https://svgontheweb.com>  
 A Practical Guide to SVGs on the web
 
+### Analytics
+
+<https://www.fullstory.com>
+FullStory
+
 ### References
 
 ## Conference Videos
