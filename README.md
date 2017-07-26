@@ -18,7 +18,7 @@ A Practical Guide to SVGs on the web
 
 ## Analytics
 
-<https://www.fullstory.com>
+<https://www.fullstory.com>  
 FullStory
 
 ### References
